@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+}
+
+.box {
+  background-color: rgb(159, 146, 146);
+  top: 25%;
+  position: absolute;
+  padding: 8px;
+  border-radius: 4px;
+  height: 40%;
+  margin-top: 4%;
+  width: 43%;
+}
+.box2 {
+  margin-left: 52.5%;
+}
+.content {
+  padding-top: 2%;
+  height: 40%;
+  text-align: center;
+  color: rgb(239, 225, 225);
+}
